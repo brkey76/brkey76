@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Ian 
+## Welcome to Ian's profile.
 
  <div>
    <a href="https://github.com/brkey76">
@@ -12,9 +12,9 @@
  
 <br>
  
-## Para entrar em contato acesse em baixo
+## To get in touch, click below.
  
 <div> 
-  <a href="https://www.youtube.com/Eistzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@Eistzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/d9.ian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ian.oliveira23@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
